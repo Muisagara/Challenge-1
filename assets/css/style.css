@@ -12,8 +12,7 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
-
-
+/*  Everything in the Header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -55,7 +54,7 @@ a {
 p {
     font-size: 16px;
 }
-
+ /* the picture of people working */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,13 +73,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* Changes the "Main" text and boxes */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Changes the mini box*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -121,7 +120,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* the pictures on the right of the page */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -193,14 +192,15 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.footer {
+/*  Bottom of the page. 
+effects the footer  */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
